@@ -1,0 +1,20 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "start": "nodemon test"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nightwatch": "^3.3.7"
+  },
+  "dependencies": {
+    "chromedriver": "^120.0.1",
+    "nodemon": "^3.0.3"
+  }
+}
